@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Print a confused smiley
+echo "\"(Ôo)'"
