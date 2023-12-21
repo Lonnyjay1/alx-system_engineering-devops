@@ -1,2 +1,2 @@
 #!/bin/bash
-./print_every_other.sh 102-odd
+awk 'NR%2==1' input.text
